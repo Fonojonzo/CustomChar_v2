@@ -1,22 +1,22 @@
 	local Tabela = {
 	PlayerPermission = {
-		["KozierNoob123"] = 			{Tier = 5}, -- oi
-		["Fonojonzo"] = 			{Tier = 1000},
-		["ExTnoCraK"] = 			{Tier = 1000},
-		["VigorOGr"] = 				{Tier = 5},
-		["jguuh"] = 				{Tier = 5},
-		["b112014"] = 				{Tier = 1},
-		["ynxvmp"] = 				{Tier = 1},
-		["zazax1120"] = 			{Tier = 1},
-		["ProzinhoBr23213"] = 			{Tier = 1},		
-		["Renan2809"] = 			{Tier = 777777},
-		["NuelNoCra"] = 			{Tier = 2},
-		["Biscoituuh"] = 			{Tier = 5},
-		["GG_TIAGO100"] = 			{Tier = 1},
-		["FerPro_13"] = 			{Tier = 1},
-		["FaustinoCB"] = 			{Tier = 1},
-		["ltz_Lufe"] = 				{Tier = 1}, -- c
-		["srnubaso"] = 				{Tier = 1}, -- nubaseo
+		["N/A"] = 			{Tier = 5}, -- oi
+		["drccastr57"] = 			{Tier = 1000},
+		["N/A"] = 			{Tier = 1000},
+		["N/A"] = 				{Tier = 5},
+		["N/A"] = 				{Tier = 5},
+		["N/A"] = 				{Tier = 1},
+		["N/A"] = 				{Tier = 1},
+		["N/A"] = 			{Tier = 1},
+		["N/A"] = 			{Tier = 1},		
+		["N/A"] = 			{Tier = 777777},
+		["N/A"] = 			{Tier = 2},
+		["N/A"] = 			{Tier = 5},
+		["N/A"] = 			{Tier = 1},
+		["N/A"] = 			{Tier = 1},
+		["FaustinoCB"] = 			{Tier = 100},
+		["N/A"] = 				{Tier = 1}, -- c
+		["N/A"] = 				{Tier = 1}, -- nubaseo
 		
 	},
 	
