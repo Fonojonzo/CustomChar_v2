@@ -7,7 +7,6 @@ local Tabela = {
 		["jguuh"] = 				{Tier = 10},
 		["b112014"] = 				{Tier = 5},
 		["ynxvmp"] = 				{Tier = 1},
-		["ProzinhoBr23213"] = 			{Tier = 5},		
 		["joseg1999"] = 			{Tier = 1000},	
 		["Renan2809"] = 			{Tier = 5},
 		["NuelNoCra"] = 			{Tier = 2},
