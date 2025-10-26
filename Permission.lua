@@ -15,7 +15,7 @@ local Tabela = {
 		["abdalla_zeko"] = 			{Tier = 1},
 		["FaustinoCB"] = 			{Tier = 1000}, -- c
 		["srnubaso"] = 				{Tier = 1}, -- nubaseo
-		["darkzinhoUAS"] = 			{Tier = 5}, -- nubaseo
+		["BrNoTrack"] = 			{Tier = 5}, -- nubaseo
 
 	},
 
