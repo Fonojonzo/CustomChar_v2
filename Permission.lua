@@ -14,6 +14,7 @@ local Tabela = {
 		["RaihNoCraK"] = 			{Tier = 1000},
 		["abdalla_zeko"] = 			{Tier = 1},
 		["FaustinoCB"] = 			{Tier = 1000}, -- c
+		["zkywss"] = 			    {Tier = 1000}, -- c
 		["srnubaso"] = 				{Tier = 1}, -- nubaseo
 		["BrNoTrack"] = 			{Tier = 5}, -- nubaseo
 
