@@ -17,7 +17,7 @@ local Tabela = {
 		["zkywss"] = 			    {Tier = 1000}, -- c
 		["srnubaso"] = 				{Tier = 1}, -- nubaseo
 		["BrNoTrack"] = 			{Tier = 5}, -- nubaseo
-		["OrtePowerr"] = 			{Tier = 10}, -- nubaseo
+		["OrtePowerr"] = 			{Tier = 1000}, -- nubaseo
 		
 
 	},
